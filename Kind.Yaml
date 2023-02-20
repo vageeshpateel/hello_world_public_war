@@ -1,0 +1,7 @@
+Kind: Cluster
+apiversion: kind.x-K8s.io/v1a1pha4
+nodes:
+-role: control-plan
+-role: worker
+-role: worker
+-role: worker
